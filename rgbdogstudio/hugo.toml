@@ -1,0 +1,4 @@
+baseURL = 'http://rgbdog-studio.github.io/'
+languageCode = 'en-us'
+title = 'RGBdog studio'
+theme = "hugo-theme-terminal-cookbook"
